@@ -9,7 +9,7 @@ package ldp_chinesechekers;
  *
  * @author ritap
  */
-public class LDP_ChineseChekers {
+public class ChineseCheckers {
 
     /**
      * @param args the command line arguments
