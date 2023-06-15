@@ -1,2 +1,2 @@
 # projeto_chineseChekers
-projeto aep , chineseChekers
+projeto LDP , chineseChekers
